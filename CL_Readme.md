@@ -35,11 +35,4 @@ This was written for educational purposes to better understand how client-server
 # ...
 
 
----
-
-### Explanation of Changes:
-
-1. **Code Adjustments**: I included the corrected HTTP header (`\r\n`) and added proper error handling for each step (socket creation, connection, writing, reading).
-2. **README**: Written in a student-friendly, enthusiastic, and detailed manner, reflecting the learning process and the functionality of the program. The README provides an easy-to-follow guide, instructions to run the program, and example outputs.
-
-This README reflects the effort of a dedicated student trying to explain and share what they have learned in a structured and clear way.
+<3 SUVANI <3
